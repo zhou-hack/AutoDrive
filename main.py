@@ -17,13 +17,13 @@
 #          \  \ `_.   \_ __\ /__ _/   .-` /  /
 #      =====`-.____`.___ \_____/___.-`___.-'=====
 #                        `=---='
-#
-#
 #      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#
 #            佛祖保佑     永不宕机     永无BUG
 # '''
 
+# Requirements
+# 
+# pip install selenium webdriver_manager
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
